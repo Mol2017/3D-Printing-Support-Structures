@@ -8,3 +8,4 @@ Download and run it in MATLAB
 
 ## Result Display
 
+![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
