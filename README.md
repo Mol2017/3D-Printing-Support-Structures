@@ -1,21 +1,10 @@
-# Title
+# Support Structure Design for 3D Printing
 
-This is an example file with default selections.
-
-## Install
-
-```
-```
+Visualize the 3D printing process.
 
 ## Usage
 
-```
-```
+Download and run it in MATLAB
 
-## Contributing
+## Result Display
 
-PRs accepted.
-
-## License
-
-MIT © Richard McRichface
