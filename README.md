@@ -8,11 +8,11 @@ Download and run it in MATLAB
 
 ## Result Display
 
-Tree：
+Tree model：
 
 ![image](https://github.com/Mol2017/3D-Printing-Support-Structures/blob/master/IMG/Tree1.png)
 
-Tree with support structures:
+Tree model with support structures:
 
 ![image](https://github.com/Mol2017/3D-Printing-Support-Structures/blob/master/IMG/support.png)
 
