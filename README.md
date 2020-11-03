@@ -8,4 +8,4 @@ Download and run it in MATLAB
 
 ## Result Display
 
-![image](https://github.com/lexsaints/powershell/blob/master/IMG/ps2.png)
+![image](https://github.com/Mol2017/3D-Printing-Support-Structures/blob/master/IMG/Tree1.png)
